@@ -1,6 +1,10 @@
 # GAN_Transformer
+---
+
 
 ### The project at hand takes a baseline Generative Adversarial Network, as well as an altered version of this network that contains a transformer within the discriminator portion of the GAN, performed on image datasets. 
+
+#### Here are the two python files you need: [GAN](gan.py), [transGAN](transGAN.py)
 
 ### The desired result is to show the effect that the transformer adds to the results, achieving better results with shorter computational time.
 
